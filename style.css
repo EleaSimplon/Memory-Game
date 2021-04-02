@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    font-family: 'Ultra', serif;
+    background-image: url('http://abload.de/img/hu0j8c.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #d7b8ffd3;
+    color: #6051BC;
+}
+
+h1 {
+    font-size: 60px;
+    color: #6051BC;
+    margin-bottom: 2vw;
+}
+
+#start-btn{
+    display: none;
+}
+#all-time{
+    font-size: 2vw;
+    text-align: center;
+}
+
+.count {
+    margin: auto;
+    border: 3px solid #5f51bc8e;
+    width: 9vw;
+    min-height: 2vw;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 3vw;
+}
+
+.table {
+    width: 53vw;
+    margin: auto;
+    border: 4px solid white;
+}
+
+img {
+    width: 8vw;
+}
+
+.gameImg {
+    opacity: 0;
+}
+
+td:hover {
+    background-color: #5f51bc8e;
+}
